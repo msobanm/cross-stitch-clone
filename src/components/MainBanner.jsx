@@ -11,7 +11,6 @@ const Container = styled.div`
   margin-top: -140px;
   overflow: hidden;
 `
-const Link = styled.a``
 
 const slide = keyframes`
   25% {
